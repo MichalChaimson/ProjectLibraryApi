@@ -1,0 +1,210 @@
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CopyComplete
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\refint\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\ref\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.genruntimeconfig.cache
+E:\C# שנה ב\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.deps.json
+E:\C# שנה ב\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.runtimeconfig.json
+E:\C# שנה ב\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.dll
+E:\C# שנה ב\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.pdb
+E:\C# שנה ב\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.dll
+E:\C# שנה ב\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.dll
+E:\C# שנה ב\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.dll
+E:\C# שנה ב\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.pdb
+E:\C# שנה ב\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.pdb
+E:\C# שנה ב\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.pdb
+E:\C# שנה ב\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.AssemblyReference.cache
+E:\C# שנה ב\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# שנה ב\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfoInputs.cache
+E:\C# שנה ב\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfo.cs
+E:\C# שנה ב\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CoreCompileInputs.cache
+E:\C# שנה ב\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CopyComplete
+E:\C# שנה ב\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.dll
+E:\C# שנה ב\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\refint\DataContext.dll
+E:\C# שנה ב\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.pdb
+E:\C# שנה ב\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.genruntimeconfig.cache
+E:\C# שנה ב\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\ref\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CopyComplete
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\refint\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\ref\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CopyComplete
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\refint\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\ref\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CopyComplete
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\refint\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\ref\DataContext.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.deps.json
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.runtimeconfig.json
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfo.cs
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataCont.586C3566.Up2Date
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\refint\DataContext.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.genruntimeconfig.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\ref\DataContext.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.deps.json
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.runtimeconfig.json
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfo.cs
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataCont.586C3566.Up2Date
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\refint\DataContext.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.genruntimeconfig.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\ref\DataContext.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.deps.json
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.runtimeconfig.json
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfo.cs
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataCont.586C3566.Up2Date
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\refint\DataContext.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.genruntimeconfig.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\ref\DataContext.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.deps.json
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.runtimeconfig.json
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfo.cs
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataCont.586C3566.Up2Date
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\refint\DataContext.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.genruntimeconfig.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\ref\DataContext.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.deps.json
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.runtimeconfig.json
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Common.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Repositories.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\bin\Debug\net6.0-windows\Service.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.AssemblyInfo.cs
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataCont.586C3566.Up2Date
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\refint\DataContext.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\DataContext.genruntimeconfig.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\DataContext\obj\Debug\net6.0-windows\ref\DataContext.dll

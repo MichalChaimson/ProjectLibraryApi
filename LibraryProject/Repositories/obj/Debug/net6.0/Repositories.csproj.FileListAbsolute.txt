@@ -1,0 +1,154 @@
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\Project\project C#\LibraryProject\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\C# שנה ב\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\C# שנה ב\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+E:\C# שנה ב\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\C# שנה ב\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\C# שנה ב\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\C# שנה ב\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# שנה ב\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\C# שנה ב\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\C# שנה ב\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\C# שנה ב\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\C# שנה ב\project C#\LibraryProject\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\C# שנה ב\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\C# שנה ב\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+E:\C# שנה ב\project C#\LibraryProject\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\Repositories\obj\Debug\net6.0\ref\Repositories.dll

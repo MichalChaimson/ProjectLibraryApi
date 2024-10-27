@@ -1,0 +1,818 @@
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.Development.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Core.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.build.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.development.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\scopedcss\bundle\LibraryProject.styles.css
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CopyComplete
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\FinallyProject\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cs
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.Development.json
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.json
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.pdb
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.pdb
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.pdb
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.pdb
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cs
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cache
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.build.json
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.development.json
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\scopedcss\bundle\LibraryProject.styles.css
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CopyComplete
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.Development.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Core.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.build.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.development.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\scopedcss\bundle\LibraryProject.styles.css
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CopyComplete
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MailKit.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MimeKit.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MailKit.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MimeKit.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\C# שנה ב\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.Development.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Core.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MailKit.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MimeKit.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.build.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.development.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\scopedcss\bundle\LibraryProject.styles.css
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CopyComplete
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.Development.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Core.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MailKit.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MimeKit.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.build.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.development.json
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\scopedcss\bundle\LibraryProject.styles.css
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CopyComplete
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+L:\שנה ב\מהט\Full Stack\ששרי סגל\nhfk\פרויקט טוב!!\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.Development.json
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.json
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MailKit.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MimeKit.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cs
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.build.json
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.development.json
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.LibraryProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.build.LibraryProject.props
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildMultiTargeting.LibraryProject.props
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildTransitive.LibraryProject.props
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.pack.json
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\scopedcss\bundle\LibraryProject.styles.css
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryP.EAB3EB4B.Up2Date
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+D:\המסמכים\Desktop\‏‏תיקיה חדשה\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.Development.json
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.json
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MailKit.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MimeKit.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cs
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.build.json
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.development.json
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.LibraryProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.build.LibraryProject.props
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildMultiTargeting.LibraryProject.props
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildTransitive.LibraryProject.props
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.pack.json
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\scopedcss\bundle\LibraryProject.styles.css
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryP.EAB3EB4B.Up2Date
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+D:\המסמכים\Desktop\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.Development.json
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.json
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MailKit.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MimeKit.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cs
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.build.json
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.development.json
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.LibraryProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.build.LibraryProject.props
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildMultiTargeting.LibraryProject.props
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildTransitive.LibraryProject.props
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.pack.json
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\scopedcss\bundle\LibraryProject.styles.css
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryP.EAB3EB4B.Up2Date
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+D:\המסמכים\Desktop\פרויקט\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.Development.json
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.json
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MailKit.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MimeKit.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cs
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.build.json
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.development.json
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.LibraryProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.build.LibraryProject.props
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildMultiTargeting.LibraryProject.props
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildTransitive.LibraryProject.props
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.pack.json
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\scopedcss\bundle\LibraryProject.styles.css
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryP.EAB3EB4B.Up2Date
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+D:\המסמכים\Desktop\פרויקטים מיכל ויעל\projectMichal\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.Development.json
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\appsettings.json
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MailKit.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\MimeKit.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Common.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\DataContext.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Service.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\bin\Debug\net6.0-windows\Repositories.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cs
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.MvcApplicationPartsAssemblyInfo.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.build.json
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.development.json
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.LibraryProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.build.LibraryProject.props
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildMultiTargeting.LibraryProject.props
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets\msbuild.buildTransitive.LibraryProject.props
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\staticwebassets.pack.json
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\scopedcss\bundle\LibraryProject.styles.css
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryP.EAB3EB4B.Up2Date
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+D:\המסמכים\Desktop\פרויקט מיכל גמר\project C#\LibraryProject\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
